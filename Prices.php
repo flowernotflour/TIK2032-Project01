@@ -19,7 +19,7 @@
             <div class="bx bx-menu" id="menu-icon"></div>
 
             <ul class="navbar">
-                <li><a href="home.php">Home☆</a></li>
+                <li><a href="index.html">Home☆</a></li>
                 <li><a href="YesandNo.php">Yes and No☆</a></li>
                 <li><a href="Prices.php">Prices☆</a></li>
                 <li><a href="Comm.php">Commission Form☆</a></li>
